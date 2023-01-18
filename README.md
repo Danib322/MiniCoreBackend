@@ -15,4 +15,6 @@ Frontend => React 18.01
 
 3. Es necesario disponer de la version 2022 o superior de sql server y de de Visual studio code para poder ejecutar el proyecto.
 
-4. Con el backend listo abrir el siguiente repositorio donde se encuentra el frontend https://github.com/Danib322/MiniCoreContratosFront
+4. Para ejecutar el proyecto es necesario crear primero la base de datos con el archivo miniCoreCompras.sql con ello creara la base.
+
+5. Con el backend listo abrir el siguiente repositorio donde se encuentra el frontend https://github.com/Danib322/MiniCoreContratosFront
